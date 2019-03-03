@@ -3,4 +3,4 @@
 - step:
     name: tf_test
     image: tensorflow/tensorflow:1.8.0-devel
-    command: python train.py {parameters}
+    command: python tensorflow_basics.py {parameters}
